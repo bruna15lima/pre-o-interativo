@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" sizes="32x32" href="./images/data-analytics.svg">
+  <link rel="stylesheet" href="style.css">
+  <!-- <link rel="preconnect" href="https://fonts.gstatic.com"> -->
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@600;800&display=swap" rel="stylesheet">
+
+  <title>Frontend Mentor | Interactive pricing component</title>
+
+  <style>
+    .attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+  </style>
+</head>
+
+<body>
+  <div class="header">
+    <div class="header-title">
+      
+      Preços simples com base no tráfego
+    </div>
+    <div class="header-subtitle">
+      Inscreva-se para nosso teste de 30 dias. Não é necessário cartão de crédito.
+    </div>
+  </div>
+  <div class="box-wrapper">
+    <div class="box-top">
+      <p class="text-uppercase">
+        <span id="output-number"></span>&nbsp;VISUALIZAÇÕES DE PÁGINA
+      </p>
+
+      <div class="price">
+        <span class="price-text" id="output-price"></span>
+        <span class="month">/ mês</span>
+      </div>
+    </div>
+    <div class="range">
+      <input type="range" min="0" max="4" step="1" value="2" class="slide-range" id="slider" aria-label="Slider" />
+    </div>
+    <div class="billing">
+      <p>Faturamento Mensal</p>
+      <button class="billing-toggle">
+        <div class="inner-circle"></div>
+      </button>
+      <p>Faturamento Anual</p>
+      <div class="yearly-billing">
+        <p class="billing-round--desktop">25%&nbsp;Desconto de</p>
+      </div>
+    </div>
+  </div>
+  <hr />
+  <div class="bottom-box">
+    <div class="bottom-unlimited">
+      <li>PDFs ilimitados</li>
+      <li>100% de propriedade de dados</li>
+      <li>Relatórios de e-mail</li>
+    </div>
+    <div class="bottom-trial">
+      <span>Comece meu teste</span>
+    </div>
+  </div>
+
+
+  <div class="attribution">
+    Feito por <a href="https://github.com/bruna15lima" target="_blank"> 2021 ©bruna15lima</a>. 
+    
+  </div>
+  <script src="main.js"></script>
+</body>
+
+</html>
