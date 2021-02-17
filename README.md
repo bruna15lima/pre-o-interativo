@@ -1,40 +1,43 @@
-preço-interativo
-Frontend Mentor - componente interativo de preços
-Receber! 👋
-Obrigado por verificar esta codificação de front-end.
 
-desafios permitem que você aprimore suas habilidades em um fluxo de trabalho da vida real.
+### Page view and pricing totals
 
-Para fazer este desafio, você precisa de um conhecimento básico de HTML, CSS e JavaScript.
+Here are the different page view ranges and the corresponding monthly price totals:
 
-O desafio
-Seu desafio é desenvolver esse componente de preço interativo e fazê-lo parecer o mais próximo possível do design.
+- 10K pageviews / $8 per month
+- 50K pageviews / $12 per month
+- 100K pageviews / $16 per month
+- 500k pageviews / $24 per month
+- 1M pageviews / $36 per month
 
-Você pode usar qualquer ferramenta que desejar para ajudá-lo a completar o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para experimentar.
+If the visitor switches the toggle to yearly billing, a 25% discount should be applied to all prices.
 
-Seus usuários devem ser capazes de:
 
-Visualize o layout ideal para o aplicativo, dependendo do tamanho da tela do dispositivo
-Veja os estados de pairar para todos os elementos interativos na página
-Use o controle deslizante e alterne para ver os preços para os diferentes números de visualização de página (detalhes fornecidos abaixo)
-Quer algum apoio no desafio? Junte-se à nossa comunidade no Slack e faça perguntas no canal #help .
+## Building your project
 
-Visualização de página e totais de preços
-Aqui estão os diferentes intervalos de visualização de página e os totais de preços mensais correspondentes:
+Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
 
-10 mil visualizações de página / R $ 8 por mês
-50 mil visualizações de página / R $ 12 por mês
-100 mil visualizações de página / R $ 16 por mês
-500 mil visualizações de página / R $ 24 por mês
-1 milhão de visualizações de página / R $ 36 por mês
-Se o visitante alternar para faturamento anual, um desconto de 25% deve ser aplicado a todos os preços.
+1. Initialize your project as a public repository on [GitHub](https://github.com/). This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, [have a read through of this Try Git resource](https://try.github.io/).
+2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using [Vercel](https://bit.ly/fem-vercel). We've got more information about deploying your project with Vercel below.
+3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
+4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
+5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
+6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
 
-Implantando seu projeto Conforme mencionado acima, existem várias maneiras de hospedar seu projeto gratuitamente. Recomendamos o uso do Vercel , pois é um serviço incrível e extremamente simples de configurar. Se você gostaria de usar o Vercel, aqui estão algumas etapas a seguir para começar:
+## Deploying your project
 
-Inscreva-se no Vercel e siga o fluxo de integração, garantindo que sua conta do GitHub esteja conectada usando a integração do Vercel para GitHub . Conecte seu projeto ao Vercel a partir da página "Importar projeto" , usando o botão "Do repositório Git" e selecionando o projeto que deseja implantar. Uma vez conectado, a cada vez que você git push, o Vercel criará uma nova implantação e a URL de implantação será exibida no seu painel . Você também receberá um e-mail para cada implantação com o URL. Compartilhando sua solução Existem vários lugares onde você pode compartilhar sua solução:
+As mentioned above, there are a number of ways to host your project for free. We recommend using [Vercel](https://bit.ly/fem-vercel) as it's an amazing service and extremely simple to get set up with. If you'd like to use Vercel, here are some steps to follow to get started:
 
-Envie-o na plataforma para que outros usuários vejam sua solução no site. Aqui está nosso "Guia completo para enviar soluções" para ajudá-lo a fazer isso. Compartilhe sua página de solução no canal # completed-projects da comunidade Slack . Faça um tweet de @fronteciationor e mencione @front Budapor incluindo o repo e as URLs ativas no tweet. Adoraríamos dar uma olhada no que você construiu e ajudar a compartilhá-lo. Dando feedback Comentários são sempre bem-vindos, então se você tiver algum a dar sobre este desafio, envie um e-mail hi [arroba] frontpostor [ponto] io.
+1. [Sign up to Vercel](https://bit.ly/fem-vercel-signup) and go through the onboarding flow, ensuring your GitHub account is connected by using their [Vercel for GitHub](https://vercel.com/docs/v2/git-integrations/vercel-for-github) integration.
+2. Connect your project to Vercel from the ["Import project" page](https://vercel.com/import), using the "From Git Repository" button and selecting the project you want to deploy.
+3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
 
-Este desafio é totalmente gratuito. Compartilhe-o com qualquer pessoa que o considere útil para a prática.
+## Sharing your solution
 
-Divirta-se construindo! 🚀
+
+## Giving feedback
+
+Feedback is always welcome, so if you have any to give on this challenge please email hi[at]frontendmentor[dot]io.
+
+This challenge is completely free. Please share it with anyone who will find it useful for practice.
+
+**Have fun building!** 🚀
