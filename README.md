@@ -1,6 +1,11 @@
-
+## **💻 Sobre o projeto**
 
 ### Page view and pricing totals
+
+
+-🚀💻--https://bruna15lima.github.io/finances.io/
+
+## **⚙️ Funcionalidades**
 
 Here are the different page view ranges and the corresponding monthly price totals:
 
@@ -13,16 +18,27 @@ Here are the different page view ranges and the corresponding monthly price tota
 If the visitor switches the toggle to yearly billing, a 25% discount should be applied to all prices.
 
 
-## Building your project
+## **🛠 Tecnologias**
 
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
+As seguintes ferramentas foram usadas na construção do projeto:
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/). This will make it easier to share your code with the community if you need some help. If you're not sure how to do this, [have a read through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a URL. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, but we recommend using [Vercel](https://bit.ly/fem-vercel). We've got more information about deploying your project with Vercel below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes that you could create to make reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
+HTML5 CSS3 Javascript
+
+---
+
+## **👨‍💻 Contribuidores**
+
+💜 Um super thanks 👏 para o líder do projeto e meu grande professor! :)
+
+
+## **💪 Como contribuir no projeto**
+
+1. Faça um **fork** do projeto.
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
+4. Envie as suas alterações: `git push origin my-feature`
+
+> Caso tenha alguma dúvida confira este guia de como contribuir no GitHub
 
 ## Deploying your project
 
@@ -32,13 +48,12 @@ As mentioned above, there are a number of ways to host your project for free. We
 2. Connect your project to Vercel from the ["Import project" page](https://vercel.com/import), using the "From Git Repository" button and selecting the project you want to deploy.
 3. Once connected, every time you `git push`, Vercel will create a new [deployment](https://vercel.com/docs/v2/platform/deployments) and the deployment URL will be shown on your [Dashboard](https://vercel.com/dashboard). You will also receive an email for each deployment with the URL.
 
-## Sharing your solution
+---
 
+## **🦸 Autor**
 
-## Giving feedback
+[Bruna Calheiros](https://www.linkedin.com/in/bruna-calheiros/?originalSubdomain=br)[🚀]
 
-Feedback is always welcome, so if you have any sugestion to give on this challenge please email me.
+---
 
-Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+Feito com muito ❤️ por [bruna15lima](https://github.com/bruna15lima) 👋🏽 [Entre em contato!]
