@@ -3,7 +3,7 @@
 ### Page view and pricing totals
 
 
--🚀💻--https://bruna15lima.github.io/finances.io/
+-🚀💻--
 
 ## **⚙️ Funcionalidades**
 
@@ -28,7 +28,7 @@ HTML5 CSS3 Javascript
 
 ## **👨‍💻 Contribuidores**
 
-💜 Um super thanks 👏 para o líder do projeto e meu grande professor! :)
+💜 Um super thanks 👏 para o líder do projeto e meu grande professor @frontendmentor! :)
 
 
 ## **💪 Como contribuir no projeto**
