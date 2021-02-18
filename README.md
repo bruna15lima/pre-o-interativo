@@ -81,4 +81,4 @@ HTML5 CSS3 Javascript
 ---
 
 Feito com muito ❤️ por [bruna15lima](https://github.com/bruna15lima) 👋🏽 [Entre em contato!]
->>>>>>> 799cf31937f7a40ade12a66bca00305894e76cd4
+
